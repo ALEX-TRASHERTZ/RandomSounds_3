@@ -13,8 +13,8 @@ import AudioKit
 class ViewController: UIViewController, UITextFieldDelegate {
 
     
-    //////////////// CAMPI  //////////////////////////////////////////////////////////////
-
+    ///// CAMPI  ///////////////////////////////
+    
     @IBOutlet var myButton: UIButton!
     @IBOutlet var myTextField: UITextField!
     @IBOutlet var myTextField2: UITextField!
