@@ -41,16 +41,8 @@ class ViewControllerDRUMS: UIViewController {
             }
             counter += 1
         }
-        
-        //beats?.start() // + drums !
-        //AudioKit.start(withPeriodicFunctions: beats!) // + drums !
     }
-
-    
-    
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-    }
+    //---------------------------------------------------------------
 
 }
 
